@@ -1,0 +1,37 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v150\Platforms\Win32\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: Support for targeting Windows XP is deprecated and will not be present in future releases of Visual Studio. Please see https://go.microsoft.com/fwlink/?linkid=2023588 for more information.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v150\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+  image.cpp
+C:\Users\annab\Desktop\compgraph\CG2019\src\framework\image.cpp(254): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\annab\Desktop\compgraph\CG2019\src\framework\image.cpp(255): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\annab\Desktop\compgraph\CG2019\src\framework\image.cpp(299): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\annab\Desktop\compgraph\CG2019\src\framework\image.cpp(300): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\annab\Desktop\compgraph\CG2019\src\framework\image.cpp(325): warning C4018: '<': signed/unsigned mismatch
+C:\Users\annab\Desktop\compgraph\CG2019\src\framework\image.cpp(327): warning C4018: '<': signed/unsigned mismatch
+C:\Users\annab\Desktop\compgraph\CG2019\src\framework\image.cpp(341): warning C4018: '<': signed/unsigned mismatch
+C:\Users\annab\Desktop\compgraph\CG2019\src\framework\image.cpp(342): warning C4018: '<': signed/unsigned mismatch
+C:\Users\annab\Desktop\compgraph\CG2019\src\framework\image.cpp(358): warning C4018: '<': signed/unsigned mismatch
+C:\Users\annab\Desktop\compgraph\CG2019\src\framework\image.cpp(359): warning C4018: '<': signed/unsigned mismatch
+C:\Users\annab\Desktop\compgraph\CG2019\src\framework\image.cpp(362): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\annab\Desktop\compgraph\CG2019\src\framework\image.cpp(362): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\annab\Desktop\compgraph\CG2019\src\framework\image.cpp(362): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\annab\Desktop\compgraph\CG2019\src\framework\image.cpp(369): warning C4018: '<': signed/unsigned mismatch
+C:\Users\annab\Desktop\compgraph\CG2019\src\framework\image.cpp(370): warning C4018: '<': signed/unsigned mismatch
+C:\Users\annab\Desktop\compgraph\CG2019\src\framework\image.cpp(386): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\annab\Desktop\compgraph\CG2019\src\framework\image.cpp(389): warning C4018: '<': signed/unsigned mismatch
+C:\Users\annab\Desktop\compgraph\CG2019\src\framework\image.cpp(390): warning C4018: '<': signed/unsigned mismatch
+C:\Users\annab\Desktop\compgraph\CG2019\src\framework\image.cpp(395): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\annab\Desktop\compgraph\CG2019\src\framework\image.cpp(396): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\annab\Desktop\compgraph\CG2019\src\framework\image.cpp(407): warning C4018: '<': signed/unsigned mismatch
+C:\Users\annab\Desktop\compgraph\CG2019\src\framework\image.cpp(408): warning C4018: '<': signed/unsigned mismatch
+C:\Users\annab\Desktop\compgraph\CG2019\src\framework\image.cpp(410): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\annab\Desktop\compgraph\CG2019\src\framework\image.cpp(411): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\annab\Desktop\compgraph\CG2019\src\framework\image.cpp(412): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\annab\Desktop\compgraph\CG2019\src\framework\image.cpp(412): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Generating code
+  3 of 128 functions ( 2.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  visual.vcxproj -> C:\Users\annab\Desktop\compgraph\CG2019\visual\visual\..\..\build\ComputerGraphics.exe
+  0 archivo(s) copiado(s)
+  0 archivo(s) copiado(s)
