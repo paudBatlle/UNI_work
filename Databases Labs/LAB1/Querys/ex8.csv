@@ -1,0 +1,31 @@
+ACoach_id,Especiality,Boss_id,Id_Card,P_Name,Surname,Nationality,BirthDate
+100000000,"Guard Coach",0,100000000,Mike,Woodson,"united states",31/12/1958
+100000021,"Shooting Coach",0,100000021,Brian,Hill,"united states",31/12/1975
+100000040,"Guard Coach",0,100000040,Don,Nelson,"united states",31/12/1962
+100000049,Psychologist,0,100000049,Larry,Krystkowiak,"united states",31/12/1974
+100000104,Doctor,0,100000104,Michael,Curry,"united states",31/12/1974
+100000111,"Guard Coach",0,100000111,Johnny,Davis,"united states",31/12/1962
+100000420,"Physical Therapist",0,100000420,Joe,Prunty,"united states",31/12/1964
+100002021,Doctor,0,100002021,Lester,Conner,"united states",17/09/1959
+100002036,"Physical Therapist",0,100002036,Phil,Hubbard,"united states","N"
+100002235,Nurse,0,100002235,Popeye,Jones,"united states",17/06/1970
+100002250,Psychologist,0,100002250,Wes,Jr.,"united states","N"
+100002276,"Physical Therapist",0,100002276,John,Lucas,"united states",31/10/1953
+100002438,Psychologist,0,100002438,Tyler,Marsh,"united states",09/12/1987
+100002627,Psychologist,0,100002627,Bob,McAdoo,"united states",25/09/1951
+100002635,"Guard Coach",0,100002635,Vin,Baker,"united states",23/11/1971
+100002645,"Shooting Coach",0,100002645,Frank,Johnson,"united states","N"
+100002646,"Physical Therapist",0,100002646,Stacey,Augmon,"united states",01/08/1968
+100002664,"Physical Therapist",0,100002664,Joe,Wolf,"united states",17/12/1964
+100002667,"Physical Therapist",0,100002667,Bill,Peterson,"united states","N"
+100002683,Psychologist,0,100002683,Mike,Thibault,"united states","N"
+100002696,"Shooting Coach",0,100002696,Les,Habegger,"united states","N"
+100002834,"Guard Coach",0,100002834,Jeff,Nix,"united states","N"
+100002836,Psychologist,0,100002836,Ernie,Grunfeld,"united states",24/04/1955
+100002844,"Guard Coach",0,100002844,Dylan,Murphy,"united states","N"
+100002951,Nurse,0,100002951,Mark,West,"united states",05/11/1960
+100002965,"Guard Coach",0,100002965,Al,Bianchi,"united states","N"
+100002981,Psychologist,0,100002981,Jannero,Pargo,"united states",22/10/1979
+100003053,Nurse,0,100003053,Otis,Jr.,"united states","N"
+100003114,Psychologist,0,100003114,John,Corbacio,"united states","N"
+100003191,Psychologist,0,100003191,Mark,McKown,"united states","N"

@@ -1,0 +1,352 @@
+P_Name,Surname,Country
+Paulo,Quinteros,argentina
+Leo,Gutierrez,argentina
+Juan,Gutierrez,argentina
+Roman,Gonzalez,argentina
+Federico,Kammerichs,argentina
+Antonio,Porta,argentina
+Hernan,Jasen,argentina
+Luis,Cequeira,argentina
+Marcos,Mata,argentina
+Facu,Campazzo,argentina
+Martin,Leiva,argentina
+Selem,Safar,argentina
+Marcos,Delia,argentina
+Matias,Bortolin,argentina
+Tayavek,Gallizzi,argentina
+Leo,Mainoldi,argentina
+Roberto,Acuna,argentina
+Luca,Vildoza,argentina
+Maximo,Fjellerup,argentina
+Agustin,Caffaro,argentina
+Lucio,Redivo,argentina
+Juan,Vaulet,argentina
+Francisco,Caffaro,argentina
+Brad,Newley,australia
+Chris,Anstey,australia
+Matt,Nielsen,australia
+C.J.,Bruton,australia
+David,Barlow,australia
+Glen,Saville,australia
+Mark,Worthington,australia
+Shawn,Redhage,australia
+Aleks,Maric,australia
+Adam,Gibson,australia
+Damian,Martin,australia
+Steven,Markovic,australia
+Peter,Crawford,australia
+Brock,Motum,australia
+Chris,Goulding,australia
+Kevin,Lisch,australia
+Nicholas,Kay,australia
+Mitchell,Creek,australia
+Nathan,Sobey,australia
+Cameron,Gliddon,australia
+Nick,Kay,australia
+Duop,Reath,australia
+Marcelinho,Machado,brazil
+Alex,Garcia,brazil
+Guilherme,Giovannoni,brazil
+JP,Batista,brazil
+Murilo,Becker,brazil
+Nezinho,Santos,brazil
+Nene,Hilario,brazil
+Larry,Taylor,brazil
+Caio,Torres,brazil
+Rafael,Hettsheimeir,brazil
+Vitor,Benite,brazil
+Augusto,Lima,brazil
+Rafa,Luz,brazil
+Yago,Santos,brazil
+Jevohn,Shepherd,canada
+Denham,Brown,canada
+Jermaine,Anderson,canada
+Levon,Kendall,canada
+Jermaine,Bucknor,canada
+Ryan,Bell,canada
+Aaron,Doornekamp,canada
+Olumuyiwa,Famutimi,canada
+Melvin,Ejim,canada
+Philip,Scrubb,canada
+Brady,Heslip,canada
+Conor,Morgan,canada
+Owen,Klassen,canada
+Thomas,Scrubb,canada
+Kaza,Kajami-Keane,canada
+Andrew,Nembhard,canada
+Jaromir,Bohacik,"czech republic"
+Vojtech,Hruban,"czech republic"
+Patrik,Auda,"czech republic"
+Ondrej,Balvin,"czech republic"
+Martin,Peterka,"czech republic"
+Blake,Schilb,"czech republic"
+Pavel,Pumprla,"czech republic"
+Martin,Kriz,"czech republic"
+Jakub,Sirina,"czech republic"
+Lukas,Palyza,"czech republic"
+Tomas,Vyoral,"czech republic"
+David,Jelinek,"czech republic"
+Ondrej,Sehnal,"czech republic"
+James,Feldeine,"dominican republic"
+Jack,Martinez,"dominican republic"
+Victor,Liz,"dominican republic"
+Eulis,Baez,"dominican republic"
+Edgar,Sosa,"dominican republic"
+Eloy,Vargas,"dominican republic"
+Manuel,Fortuna,"dominican republic"
+Juan,Coronado,"dominican republic"
+Orlando,Sanchez,"dominican republic"
+Edward,Santana,"dominican republic"
+Ronald,Ramon,"dominican republic"
+Rigoberto,Mendoza,"dominican republic"
+Ronald,Roberts,"dominican republic"
+Gelvis,Solano,"dominican republic"
+Sadiel,Rojas,"dominican republic"
+Dagoberto,Pena,"dominican republic"
+Juan,Garcia,"dominican republic"
+Juan,Suero,"dominican republic"
+Alain,Koffi,france
+Ali,Traore,france
+Yannick,Bokolo,france
+Andrew,Albicy,france
+Florent,Pietrus,france
+Edwin,Jackson,france
+Fabien,Causeur,france
+Thomas,Heurtel,france
+Antoine,Diot,france
+Charles,Kahudi,france
+Kim,Tillie,france
+Amath,M'Baye,france
+Mathias,Lessort,france
+Louis,Labeyrie,france
+Paul,Lacombe,france
+Moustapha,Fall,france
+Demond,Greene,germany
+Steffen,Hamann,germany
+Jan,Jagla,germany
+Pascal,Roller,germany
+Sven,Schultze,germany
+Konrad,Wysocki,germany
+Patrick,Femerling,germany
+Robert,Garrett,germany
+Phillip,Zwiener,germany
+Heiko,Schaffartzik,germany
+Tibor,Pleiss,germany
+Lucca,Staiger,germany
+Chris,McNaughton,germany
+Robin,Benzing,germany
+Philipp,Schwethelm,germany
+Per,Gunther,germany
+Johannes,Voigtmann,germany
+Maodo,Lo,germany
+Danilo,Barthel,germany
+Ismet,Akpinar,germany
+Andreas,Obst,germany
+Johannes,Thiemann,germany
+Niels,Giffey,germany
+Joshiko,Saibou,germany
+Jan,Wimberg,germany
+Lukas,Wank,germany
+Ioannis,Bourousis,greece
+Antonis,Fotsis,greece
+Theodoros,Papaloukas,greece
+Dimitris,Diamantidis,greece
+Panagiotis,Vasilopoulos,greece
+Nikos,Zisis,greece
+Kostas,Tsartsaris,greece
+Giorgos,Printezis,greece
+Sofoklis,Schortsanitis,greece
+Michalis,Pelekanos,greece
+Kostas,Kaimakoglou,greece
+Stratos,Perperoglou,greece
+Ian,Vouyoukas,greece
+Kostas,Vasileiadis,greece
+Kostas,Sloukas,greece
+Vangelis,Mantzaris,greece
+Ioannis,Papapetrou,greece
+Giannoulis,Larentzakis,greece
+Luigi,Datome,italy
+Daniel,Hackett,italy
+Awudu,Abass,italy
+Amedeo,Tessitori,italy
+Amedeo,Valle,italy
+Alessandro,Gentile,italy
+Paul,Biligha,italy
+Jeff,Brooks,italy
+Ariel,Filloy,italy
+Luca,Vitali,italy
+Simone,Fontecchio,italy
+Stefano,Tonut,italy
+Achille,Polonara,italy
+Giampaolo,Ricci,italy
+Michele,Vitali,italy
+Riccardo,Moraschini,italy
+Alessandro,Pajola,italy
+Marco,Spissu,italy
+Ramunas,Siskauskas,lithuania
+Rimantas,Kaukenas,lithuania
+Simas,Jasaitis,lithuania
+Ksistof,Lavrinovic,lithuania
+Robertas,Javtokas,lithuania
+Mindaugas,Lukauskis,lithuania
+Marijonas,Petravicius,lithuania
+Jonas,Maciulis,lithuania
+Darjus,Lavrinovic,lithuania
+Marius,Prekevicius,lithuania
+Mantas,Kalnietis,lithuania
+Martynas,Pocius,lithuania
+Tomas,Delininkaitis,lithuania
+Paulius,Jankunas,lithuania
+Martynas,Gecevicius,lithuania
+Renaldas,Seibutis,lithuania
+Tadas,Klimavicius,lithuania
+Antanas,Kavaliauskas,lithuania
+Adas,Ju?kevicius,lithuania
+Sarunas,Vasiliauskas,lithuania
+Marius,Grigonis,lithuania
+Vaidas,Kariniauskas,lithuania
+Lukas,Lekavicius,lithuania
+Edgaras,Ulanovas,lithuania
+Arnas,Butkevicius,lithuania
+Rokas,Giedraitis,lithuania
+Adam,Waczynski,poland
+Mateusz,Ponitka,poland
+A.J.,Slaughter,poland
+Damian,Kulig,poland
+Michal,Sokolowski,poland
+Aaron,Cel,poland
+Adam,Hrycaniuk,poland
+Lukasz,Koszarek,poland
+Olek,Balcerowski,poland
+Karol,Gruszecki,poland
+Dominik,Olejniczak,poland
+Kamil,Laczynski,poland
+Angel,Vassallo,"puerto rico"
+Peter,Ramos,"puerto rico"
+Nathan,Peavy,"puerto rico"
+Carmelo,Lee,"puerto rico"
+David,Huertas,"puerto rico"
+Ricky,Sanchez,"puerto rico"
+Daniel,Santiago,"puerto rico"
+Filiberto,Rivera,"puerto rico"
+Carlos,Rivera,"puerto rico"
+Alexander,Galindo,"puerto rico"
+Alex,Franklin,"puerto rico"
+Ramon,Clemente,"puerto rico"
+Jorge,Diaz,"puerto rico"
+Gary,Browne,"puerto rico"
+Angel,Rodriguez,"puerto rico"
+Isaiah,Pineiro,"puerto rico"
+Devon,Collier,"puerto rico"
+Javier,Mojica,"puerto rico"
+Chris,Brady,"puerto rico"
+JR,Holden,russia
+Alexey,Savrasenko,russia
+Sergey,Bykov,russia
+Andrey,Vorontsevich,russia
+Nikita,Morgunov,russia
+Zakhar,Pashutin,russia
+Viktor,Keirou,russia
+Vitaly,Fridzon,russia
+Petr,Samoylenko,russia
+Anton,Ponkrashov,russia
+Evgeny,Voronov,russia
+Dimitriy,Khvostov,russia
+Alexey,Zhukanenko,russia
+Evgeny,Kolesnikov,russia
+Semen,Antonov,russia
+Mikhail,Kulagin,russia
+Nikita,Kurbanov,russia
+Andrey,Zubkov,russia
+Vladimir,Ivlev,russia
+Grigory,Motovilov,russia
+Evgeny,Baburin,russia
+Evegeny,Valiev,russia
+Andrei,Sopin,russia
+Dusko,Savanovic,serbia
+Novica,Velickovic,serbia
+Marko,Keselj,serbia
+Aleksandar,Rasic,serbia
+Milenko,Tepic,serbia
+Milan,Macvan,serbia
+Stefan,Markovic,serbia
+Ivan,Paunic,serbia
+Nikola,Kalinic,serbia
+Vladimir,Stimac,serbia
+Stefan,Jovic,serbia
+Stefan,Bircevic,serbia
+Rasko,Katic,serbia
+Vladimir,Lucic,serbia
+Nikola,Milutinov,serbia
+Vasilije,Micic,serbia
+Jaka,Lakovic,slovenia
+Sani,Becirovic,slovenia
+Miha,Zupan,slovenia
+Gasper,Vidmar,slovenia
+Samo,Udrih,slovenia
+Goran,Jagodnik,slovenia
+Hasan,Rizvic,slovenia
+Jaka,Klobucar,slovenia
+Domen,Lorbek,slovenia
+Jure,Balazic,slovenia
+Alen,Omic,slovenia
+Edo,Muric,slovenia
+Jaka,Blazic,slovenia
+Klemen,Prepelic,slovenia
+Aleksej,Nikolic,slovenia
+Ziga,Dimec,slovenia
+Luka,Rupnik,slovenia
+Gregor,Hrovat,slovenia
+Jakob,Cebasek,slovenia
+Felipe,Reyes,spain
+Alex,Mumbru,spain
+Carlos,Jimenez,spain
+Berni,Rodriguez,spain
+Raul,Lopez,spain
+Fran,Vazquez,spain
+Sergio,Llull,spain
+Fernando,Emeterio,spain
+Victor,Sada,spain
+Juan,Hernangomez,spain
+Pau,Ribas,spain
+Pierre,Oriola,spain
+Quino,Colom,spain
+Javier,Beiran,spain
+Xavi,Rabaseda,spain
+Alberto,Abalde,spain
+Xabier,Lopez-Arostegui,spain
+Hidayet,Turkoglu,turkey
+Omer,Onan,turkey
+Ender,Arslan,turkey
+Kerem,Tunceri,turkey
+Sinan,Guler,turkey
+Oguz,Savas,turkey
+Kerem,Gonlum,turkey
+Cenk,Akyol,turkey
+Baris,Ermis,turkey
+Emir,Preldzic,turkey
+Baris,Hersek,turkey
+Melih,Mahmutoglu,turkey
+Scottie,Wilbekin,turkey
+James,Birsen,turkey
+Sertac,Sanli,turkey
+Bugrahan,Tuncer,turkey
+Dogus,Balbay,turkey
+Yigit,Arslan,turkey
+Ege,Arar,turkey
+Greg,Echenique,venezuela
+John,Cox,venezuela
+Nestor,Colmenares,venezuela
+Gregory,Vargas,venezuela
+Jose,Vargas,venezuela
+David,Cubillan,venezuela
+Anthony,Perez,venezuela
+Heissler,Guillent,venezuela
+Miguel,Ruiz,venezuela
+Windi,Graterol,venezuela
+Dwight,Lewis,venezuela
+Miguel,Marriaga,venezuela
+Michael,Carrera,venezuela
+Jhornan,Zamora,venezuela
+Pedro,Chourio,venezuela
+Luis,Bethelmy,venezuela
