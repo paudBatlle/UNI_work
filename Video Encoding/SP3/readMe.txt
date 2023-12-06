@@ -1,0 +1,1 @@
+First install the streamlit library and then run streamlit_gui.py
