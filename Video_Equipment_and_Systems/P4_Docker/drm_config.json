@@ -1,0 +1,16 @@
+{
+    "keys": [
+      {
+        "label": "widevine_key",
+        "type": "CONTENT",
+        "key_id": "2c6b33ebfea98c38da283ed5b4ca2b10",
+        "key": "LGsz6/6pjDjaKD7VtMorEA=="
+      }
+    ],
+    "pssh": "Qm0Y48i1pmiNKMAUeDhY7g==",
+    "system_id": "edef8ba9-79d6-4ace-a3c8-27dcd51d21ed",
+    "kid": "your_key_id_placeholder",
+    "url": "https://your-license-server.com/license",
+    "method": "mpeg_cenc"
+  }
+  
